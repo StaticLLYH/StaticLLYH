@@ -8,15 +8,13 @@
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaticLLYH" /> </div>
 <!-- <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=StaticLLYH"> </div> -->
 
-<div align="center">
-<a href="mailto://staticllyh@gmail.com">邮件 E-mail</a>
-</div>
+## <div align="center">联系方式</div>
 
-<div align="center">
-<a href="http://wpa.qq.com/msgrd?V=3&Uin=2098702368">QQ</a>
-</div>
+#### <div align="center"><a href="mailto://staticllyh@gmail.com">邮件 E-mail</a></div>
 
-### <div align="center">友情链接</div>
+#### <div align="center"><a href="http://wpa.qq.com/msgrd?V=3&Uin=2098702368">QQ</a></div>
 
-##### <div align="center"><a href="https://github.com/google/fonts/archive/main.zip">Google字体下载（贼慢）</a></div>
-##### <div align="center"><a href="https://blog.csdn.net/LiuLuYiHua">CSDN</a></div>
+## <div align="center">友情链接</div>
+
+#### <div align="center"><a href="https://github.com/google/fonts/archive/main.zip">Google字体下载（贼慢）</a></div>
+#### <div align="center"><a href="https://blog.csdn.net/LiuLuYiHua">CSDN</a></div>
