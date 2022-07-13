@@ -7,3 +7,7 @@
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=StaticLLYH&theme=rogue" /> </div> -->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaticLLYH" /> </div>
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=StaticLLYH"> </div>
+
+<div align="center">
+<a href="mailto://staticllyh@gmail.com"><iframe src="./mail.svg"></iframe></a>
+</div>
