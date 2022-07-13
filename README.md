@@ -9,5 +9,5 @@
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=StaticLLYH"> </div>
 
 <div align="center">
-<a href="mailto://staticllyh@gmail.com"><iframe src="./mail.svg"></iframe></a>
+<a href="mailto://staticllyh@gmail.com"><img src="baseline_email_black_24dp.png"></a>
 </div>
