@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-<a href="tencent://message/?uin=2098702368&Site=&Menu=yes">QQ</a>
+<a href="http://wpa.qq.com/msgrd?V=3&Uin=2098702368">QQ</a>
 </div>
 
 ### <div align="center">友情链接</div>
