@@ -6,8 +6,17 @@
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=StaticLLYH" /> </div>
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=StaticLLYH&theme=rogue" /> </div> -->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaticLLYH" /> </div>
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=StaticLLYH"> </div>
+<!-- <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=StaticLLYH"> </div> -->
 
 <div align="center">
-<a href="mailto://staticllyh@gmail.com"><img src="baseline_email_black_24dp.png"></a>
+<a href="mailto://staticllyh@gmail.com">邮件 E-mail</a>
 </div>
+
+<div align="center">
+<a href="tencent//message/?uin=2098702368&Site=&Menu=yes">QQ</a>
+</div>
+
+### <div align="center">友情链接</div>
+
+##### <div align="center"><a href="https://github.com/google/fonts/archive/main.zip">Google字体下载（贼慢）</a></div>
+##### <div align="center"><a href="https://blog.csdn.net/LiuLuYiHua">CSDN</a></div>
